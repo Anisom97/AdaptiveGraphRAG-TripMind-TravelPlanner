@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "africa_safari_001",
+    "title": "The Ultimate Guide to a Safari in Africa",
+    "author": "The Explorer Society",
+    "region": "africa",
+    "doc_type": "safari_guide",
+    "filename": "travel_guide_africa.pdf",
+    "pages_extracted": 45,
+    "chunks_created": 39
+  },
+  {
+    "source_id": "europe_guide_001",
+    "title": "Ultimate Quick Travel Guide \u2014 European Edition",
+    "author": "Wandering Lewis",
+    "region": "europe",
+    "doc_type": "budget_guide",
+    "filename": "travel_guide_europe.pdf",
+    "pages_extracted": 17,
+    "chunks_created": 27
+  }
+]
